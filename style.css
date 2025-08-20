@@ -10,7 +10,6 @@ body {
 
 .card {
   display: inline-block;
-  text-align: center;
   background-color: #ffffff;
   width: 320px;
   padding: 16px 16px 40px 16px;
